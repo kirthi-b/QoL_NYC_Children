@@ -1,0 +1,72 @@
+Puma_Code,Puma_Name,Median_Income
+BK01,Williamsburg-Greenpoint (CD 1 Equivalent),73595.0
+BK02,Downtown Brooklyn-Fort Greene (CD 2 Approximation),103475.0
+BK03,Bedford-Stuyvesant (CD 3 Approximation),56440.0
+BK04,Bushwick (CD 4 Equivalent),55385.0
+BK05,East New York-Cypress Hills (CD 5 Approximation),39162.0
+BK06,Park Slope-Carroll Gardens (CD 6 Approximation),127139.0
+BK07,Sunset Park-Windsor Terrace (CD 7 Approximation),65340.0
+BK08,Crown Heights (North) (CD 8 Approximation),61301.0
+BK09,Crown Heights (South) (CD 9 Approximation),55015.0
+BK10,Bay Ridge-Dyker Heights (CD 10 Approximation),73070.0
+BK11,Bensonhurst-Bath Beach (CD 11 Approximation),56523.0
+BK12,Borough Park-Kensington (CD 12 Approximation),50331.0
+BK13,Coney Island-Brighton Beach (CD 13 Approximation),38321.0
+BK14,Flatbush-Midwood (CD 14 Approximation),59727.0
+BK15,Sheepshead Bay-Gravesend (East) (CD 15 Approximation),65760.0
+BK16,Ocean Hill-Brownsville (CD 16 Approximation),28343.0
+BK17,East Flatbush (CD 17 Approximation),54214.0
+BK18,Canarsie-Flatlands (CD 18 Approximation),79032.0
+BK55,Prospect Park (JIA 55 Approximation),
+BK56,Jamaica Bay (West) (JIA 56 Approximation),200000.0
+BX01,Melrose-Mott Haven-Port Morris (CD 1 Approximation),25741.0
+BX02,Longwood-Hunts Point (CD 2 Approximation),26957.0
+BX03,Morrisania-Crotona Park East (CD 3 Approximation),27563.0
+BX04,Highbridge-Concourse (CD 4 Approximation),31730.0
+BX05,Morris Heights-Mount Hope (CD 5 Approximation),30217.0
+BX06,Tremont-Belmont-West Farms (CD 6 Approximation),25548.0
+BX07,Fordham-Bedford Park-Norwood (CD 7 Approximation),37973.0
+BX08,Riverdale-Kingsbridge-Marble Hill (CD 8 Approximation),61182.0
+BX09,Soundview-Parkchester (CD 9 Approximation),41641.0
+BX10,Co-op City-Throgs Neck (CD 10 Approximation),59353.0
+BX11,Pelham Parkway-Morris Park (CD 11 Approximation),55054.0
+BX12,Wakefield-Williamsbridge-Eastchester (CD 12 Approximation),54864.0
+BX26,Van Cortlandt Park (JIA 26 Equivalent),
+BX27,Bronx Park (JIA 27 Approximation),54998.0
+BX28,Pelham Bay Park (JIA 28 Approximation),14998.0
+MN01,Financial District-Tribeca (CD 1 Equivalent),181087.0
+MN02,Greenwich Village-SoHo (CD 2 Equivalent),127115.0
+MN03,Lower East Side-Chinatown (CD 3 Equivalent),45293.0
+MN04,Chelsea-Hell's Kitchen (CD 4 Approximation),104027.0
+MN05,Midtown-Flatiron-Union Square (CD 5 Approximation),146945.0
+MN06,East Midtown-Murray Hill (CD 6 Approximation),127694.0
+MN07,Upper West Side (CD 7 Approximation),120173.0
+MN08,Upper East Side-Roosevelt Island (CD 8 Equivalent),126128.0
+MN09,Morningside Heights-Hamilton Heights (CD 9 Equivalent),52839.0
+MN10,Harlem (CD 10 Equivalent),51276.0
+MN11,East Harlem (CD 11 Equivalent),33927.0
+MN12,Washington Heights-Inwood (CD 12 Equivalent),55616.0
+MN64,Central Park (JIA 64 Equivalent),
+QN01,Astoria-Queensbridge (CD 1 Equivalent),68922.0
+QN02,Long Island City-Sunnyside-Woodside (CD 2 Approximation),72151.0
+QN03,Jackson Heights-East Elmhurst (CD 3 Approximation),60288.0
+QN04,Elmhurst-Corona (CD 4 Approximation),53670.0
+QN05,Ridgewood-Maspeth-Middle Village (CD 5 Approximation),76568.0
+QN06,Forest Hills-Rego Park (CD 6 Approximation),80228.0
+QN07,Flushing-Murray Hill-Whitestone (CD 7 Approximation),55654.0
+QN08,Fresh Meadows-Hillcrest-Briarwood (CD 8 Approximation),69883.0
+QN09,Kew Gardens-Richmond Hill-Woodhaven (CD 9 Approximation),71937.0
+QN10,South Ozone Park-Howard Beach (CD 10 Approximation),78627.0
+QN11,Auburndale-Bayside-Douglaston (CD 11 Approximation),86150.0
+QN12,Jamaica-St. Albans-Hollis (CD 12 Approximation),65383.0
+QN13,Queens Village-Bellerose-Rosedale (CD 13 Approximation),90246.0
+QN14,The Rockaways (CD 14 Equivalent),56830.0
+QN80,LaGuardia Airport (JIA 80 Approximation),
+QN81,Flushing Meadows-Corona Park (JIA 81 Approximation),
+QN82,Forest Park (JIA 82 Approximation),
+QN83,JFK International Airport (JIA 83 Approximation),
+QN84,Jamaica Bay (East) (JIA 84 Approximation),49998.0
+SI01,North Shore (CD 1 Equivalent),68126.0
+SI02,Mid-Island (CD 2 Approximation),86817.0
+SI03,South Shore (CD 3 Approximation),96785.0
+SI95,Great Kills Park-Fort Wadsworth (JIA 95 Approximation),78205.0
