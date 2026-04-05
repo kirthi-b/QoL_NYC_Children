@@ -1,0 +1,22 @@
+# Windows
+desktop.ini
+Thumbs.db
+*.lnk
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env
